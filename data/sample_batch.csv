@@ -1,0 +1,5 @@
+patient_id,age,sex,weight_kg,height_cm,scr_mg_dl,hepatic_impairment,drug,nyha_class
+P001,65,male,70,175,1.0,No,Vancomycin,
+P001,65,male,70,175,1.0,No,Gentamicin,
+P002,72,female,58,160,1.4,No,Digoxin,II
+P003,80,male,95,170,1.8,Yes,Phenytoin,
